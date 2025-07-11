@@ -19,13 +19,17 @@ I'm a front-end developer evolving into a **full-stack software engineer**, pass
 
 ### 🔥 My Passions
 
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="48" /><br><b>Gaming</b></td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/3659/3659738.png" width="48" /><br><b>Programming</b></td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/1179/1179069.png" width="48" /><br><b>Movies & Series</b></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.icons8.com/clouds/100/controller.png" width="80" alt="Gaming" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/clouds/100/source-code.png" width="80" alt="Programming" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/clouds/100/popcorn.png" width="80" alt="Movies & Series" />
+</p>
+
+<p align="center">
+  <b>🎮 Gaming &nbsp;&nbsp;&nbsp;&nbsp; 💻 Coding &nbsp;&nbsp;&nbsp;&nbsp; 🎬 Movies & TV</b>
+</p>
 
 > I’m a huge fan of immersive games, code challenges, and story-driven series like *Attack on Titan* and *Dune* 🌌
 
@@ -38,8 +42,10 @@ I'm a front-end developer evolving into a **full-stack software engineer**, pass
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
 ---
