@@ -31,7 +31,7 @@ I'm a front-end developer evolving into a **full-stack software engineer**, pass
   <b>🎮 Gaming &nbsp;&nbsp;&nbsp;&nbsp; 💻 Coding &nbsp;&nbsp;&nbsp;&nbsp; 🎬 Movies & TV</b>
 </p>
 
-> I’m a huge fan of immersive games, code challenges, and story-driven series like *Attack on Titan* and *Dune* 🌌
+> I’m a huge fan of immersive games, code challenges, and story-driven series like *One Piece* and *Dune* 🌌
 
 ---
 
