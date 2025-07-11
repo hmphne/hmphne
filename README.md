@@ -22,7 +22,7 @@ I'm a front-end developer evolving into a **full-stack software engineer**, pass
 <p align="center">
   <img src="https://img.icons8.com/clouds/100/controller.png" width="80" alt="Gaming" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/clouds/100/source-code.png" width="80" alt="Programming" />
+  <img src="https://img.icons8.com/?size=100&id=46376&format=png&color=000000" width="80" alt="Programming" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/?size=100&id=xrf3Mbb31rNc&format=png&color=000000" width="80" alt="Movies & Series" />
 </p>
